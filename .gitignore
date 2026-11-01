@@ -1,0 +1,6 @@
+*
+!.gitignore
+!README.md
+!bot.py
+!llm_client.py
+!model_training.ipynb
